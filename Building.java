@@ -5,6 +5,7 @@ public class Building {
     private int nFloors = 1;
 
     public Building(String name, String address, int nFloors) {
+        //super();
         if (name != null) { this.name = name; }
         if (address != null) { this.address = address; } 
         if (nFloors < 1) {
