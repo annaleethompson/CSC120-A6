@@ -2,3 +2,5 @@ Use this file to record your reflection on this assignment.
 
 - What are your initial impressions of how `Inheritance` affects your programming?
 - What worked, what didn't, what advice would you give someone taking this course in the future?
+
+My initial impressions of how Inheritance affects my programming is that it can make it easier to make classes that have the same foundation attributes but different function. I am interest to see how inheritance can be implemented beyond classes sharing common attributes. I think that working on this assignment went pretty smoothly. This was the first time I felt like I fully knew what I was doing when I was completing an assignment which made me realize how much I have grown since the beginning of the semester when I felt so paniced by the first assignment. Some advice I would give to someone taking this course in the future about this assignment is to fully understand what inheritance is before starting, which will make it much easier to understand the relationship.
